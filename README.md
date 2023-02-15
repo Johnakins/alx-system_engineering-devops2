@@ -1,1 +1,1 @@
-My Shell Directories
+Shell expansions
